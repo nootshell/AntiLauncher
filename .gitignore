@@ -1,0 +1,15 @@
+# Whitelisting mode
+*
+!*/
+
+# Whitelist repo files
+!.gitignore
+!*.md
+
+# Whitelist source/project files
+!*.cs
+!*.csproj
+
+# Explicit blacklist
+bin/
+obj/
